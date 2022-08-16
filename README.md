@@ -3,6 +3,6 @@
 
 
 -  Atualmente estou cursando Análise e desnvolvimento de sistemas
--  Estou aprendendo C
--
+-  Gosto muito de proramar e JavaScript
+-  Hoje, estou aprendendo C
 
