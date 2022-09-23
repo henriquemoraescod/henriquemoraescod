@@ -1,10 +1,5 @@
-### Olá! Eu sou o Henrique
 
 
-
--  Atualmente estou cursando Análise e desnvolvimento de sistemas
--  Gosto muito de programar em JavaScript
--  Evoluindo em C
 
 <div>
 <a href="https://github.com/henriquemoraescod">
