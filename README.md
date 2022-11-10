@@ -1,5 +1,5 @@
 
-I am currently studying Systems Analysis and Development, this graduation is allowing me to know many concepts and languages, and making me love programming more and more. Today most of my personal projects are being carried out in C and JavaScript, which are the languages that I have the most understanding of, and I'm looking to learn more and more.
+I am currently studying Systems Analysis and Development, this graduation is allowing me to know many concepts and languages, and making me love programming more and more. Today most of my personal projects are being carried out in C and JavaScript, which are the languages that I have the most understanding, and I'm looking to learn more and more.
 
 
 <div align="center">
