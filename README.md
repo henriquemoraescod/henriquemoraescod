@@ -1,6 +1,7 @@
 
-#### I am a Analysis System and Development student, this graduation is allowing me to know many concepts and languages, and making me love programming more and more. Today most of my personal projects are being carried out in C and JavaScript, which are the languages that I have the most understanding, and I'm looking to learn more and more.
+#### Atualmente estou cursando Análise e Desenvolvimento de Sistemas, essa graduação está me permitindo conhecer muitos conceitos e linguagens, e me fazendo gostar cada vez mais de programação. Hoje a maioria dos meus projetos pessoais estão sendo realizados em C e JavaScript que são as linguagens que eu tenho mais entendimento, e estou buscando aprender cada vez mais.
 
+#### I am a Analysis System and Development student, this graduation is allowing me to know many concepts and languages, and making me love programming more and more. Today most of my personal projects are being carried out in C and JavaScript, which are the languages that I have the most understanding, and I'm looking to learn more and more.
 
 <div align="center">
   <a href="https://github.com/henriquemoraescod">
